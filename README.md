@@ -7,7 +7,7 @@ Abstract: We analyze the effectiveness of the first six months of vaccination ca
 
 ### Instructions
 This repository contains data and code to run the model for the paper "Anatomy of the first six months of COVID-19 vaccination campaign in Italy":
-- ```basins``` contains demographic, epidemiological, and NPIs data for different data. This data is already pre-processed and is ready to be inputed in the model
+- ```basins``` contains demographic, epidemiological, and NPIs data for different basins. This data is already pre-processed and is ready to be inputed in the model
 - ```data-scripts``` contains the notebooks necessary to download and preprocess the vaccinations, demographic, and NPIs data
 - ```models``` contains the implementation of the model
 - ```simulation``` contains an example notebook to run the model 
